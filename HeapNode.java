@@ -1,5 +1,5 @@
 
-//used in question 17.8 shortest supersequence
+//used in question 17.8 in the 'hard questions' - "shortest supersequence"
 public class HeapNode implements Comparable {
 
     public int list_id;
