@@ -1,5 +1,5 @@
 
-//used in question "histogram" - represents a rectangle
+//used in question "histogram" from 'interview questions' - represents a rectangle
 public class StackElement {
 
     public int start_position;
