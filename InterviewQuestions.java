@@ -9,45 +9,45 @@ public class InterviewQuestions {
 
         /* These questions from real interviews, rumors of real interviews, or simply things that might come up */
 
-        //oddNumbers();
+        oddNumbers();
 
-        //countTheElements();
+        countTheElements();
 
-        //getMinimumDifference();
+        getMinimumDifference();
 
-        //MultiplyTwoNumbers();
+        MultiplyTwoNumbers();
 
-        //StringsArrayPermutation();
+        StringsArrayPermutation();
 
-        //AllSubsetsOfSizeK();
+        AllSubsetsOfSizeK();
 
-        //IsSodukuValid();
+        IsSodukuValid();
 
-        //QuickSort();
+        QuickSort();
 
-        //FindKthSmallestEllement();
+        FindKthSmallestEllement();
 
-        //areBracketsValid();
+        areBracketsValid();
 
-        //streamIntoMatrix();
+        streamIntoMatrix();
 
-        //oceansRiversAndMountains();
+        oceansRiversAndMountains();
 
-        //numberOfPathsInMatrix();
+        numberOfPathsInMatrix();
 
-        //addIntegresByArray();
+        addIntegresByArray();
 
-        //minimumCostPathInMatrix();
+        minimumCostPathInMatrix();
 
-        //histogram();
+        histogram();
 
-        //characterFrequency();
+        characterFrequency();
 
-       //serializeTree();
+        serializeTree();
 
-        //optimalCoverage();
+        optimalCoverage();
 
-        //stickersToSpellWord();
+        stickersToSpellWord();
 
     }
 
