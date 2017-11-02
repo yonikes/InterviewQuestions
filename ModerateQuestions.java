@@ -4,8 +4,7 @@ public class ModerateQuestions {
 
     public static void main(String[] args){
 
-         /* All questions are from chapter 16 of 'Cracking the coding interview' */
-         /*
+         /* All questions are from chapter 16 of 'Cracking the coding interview' - moderate questions */
 
         SwapNumersWithoutTemp();
 
@@ -28,8 +27,6 @@ public class ModerateQuestions {
         RandOf7FromRandOf5();
 
         PairsWithSum();
-
-        */
     }
 
     //question 16.1 from Cracking the coding interview - somewhat of a brain tisser                                                                                                                                                                                                                                                                      from Cracking the coding interview
