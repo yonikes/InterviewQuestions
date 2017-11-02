@@ -1,5 +1,5 @@
 
-//to represent a BST
+//to represent a BST - used in 'serializeTree' question
 public class TreeNode {
 
     public int value;
