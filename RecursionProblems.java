@@ -4,24 +4,25 @@ public class RecursionProblems {
 
     public static void main(String[] args) {
 
-         /* All questions are from chapter 8 of 'Cracking the coding interview' */
-        //tripleStep();
+         /* All questions are from chapter 8 of 'Cracking the coding interview' that deal with recursion and dynamic programming */
+        
+        tripleStep();
 
-        //robotInGrid();
+        robotInGrid();
 
-        //magicIndex();
+        magicIndex();
 
-        //allSubsets();
+        allSubsets();
 
-        //towersOfHanoi();
+        towersOfHanoi();
 
-        //stringPermutationsNoDups();
+        stringPermutationsNoDups();
 
-        //stringPermutationsWithDups();
+        stringPermutationsWithDups();
 
-        //parenthasis();
+        parenthasis();
 
-        //coins();
+        coins();
 
         eightQueens();
     }
