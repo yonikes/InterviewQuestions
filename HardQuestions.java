@@ -4,15 +4,14 @@ public class HardQuestions {
 
     public static void main(String[] args) {
 
-         /* All questions are from chapter 17 of 'Cracking the coding interview' */
-        //lettersAndNumbers();
+         /* All questions are from chapter 17 of 'Cracking the coding interview' - "hard questions" */
+        lettersAndNumbers();
 
-        //majorityValue();
+        majorityValue();
 
-        //shortestSupersequence();
+        shortestSupersequence();
 
         histogramVolume();
-
     }
 
 
